@@ -1,4 +1,5 @@
 /Maps/YoshiIsland.kpbin
+/Maps/MalachiteMeadows.kpbin
 /Maps/Desert.kpbin
 /Maps/Sewer.kpbin
 /Maps/MountainBackside.kpbin
