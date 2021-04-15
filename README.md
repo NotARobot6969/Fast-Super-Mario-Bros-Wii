@@ -1,3 +1,6 @@
+# Attention: This hack is dead
+Below is the original readme:
+
 # What is Fast SMBW?
 FSMBW is a Newer SMBW hack with nine worlds, 3 levels per world plus a few more. that is 34 levels! Each world follows the corresponding theme from the original NSMBW but now the worlds are a lot smaller. Made by Aurumaker72, Randonly and PeepoLord.
 
